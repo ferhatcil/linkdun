@@ -14,15 +14,15 @@ LinkedIn Uygulamanızı oluşturmak için aşağıda yer alan bağlantıya tıkl
 
 "Uygulama oluştur" butonuna tıklayın.
 
-bot-1
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-1.PNG)
 
 İstenen verileri sağlayın
 
-bot-2
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-2.PNG)
 
 "Verify" butonuna tıklayarak linkedin sayfanızı doğrulayın.
 
-bot-3
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-3.PNG)
 
 "Generate URL" butonuna tıklayın ve LinkedIn tarafından istenen birkaç adımı tamamlayın.
 
@@ -31,7 +31,7 @@ Product sayfasını açın, Share on LinkedIn ve Marketing Developer Platform  u
 - Share on LinkedIn profilinizi yönetmek içindir.
 - Marketing Developer Platform sayfanızı yönetmek içindir.
 
-bot-4
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-4.PNG)
 
 Marketing Developer Platformu kullanmak için linkedin'e bir form göndermeniz gerekiyor. Bu form Linkedin tarafından 2 iş günü içerisinde onaylanır.
 
@@ -39,11 +39,11 @@ Marketing Developer Platformu kullanmak için linkedin'e bir form göndermeniz g
 
 Auth sekmesine tıklayın Client ID ve the Client Secret bilgilerini not alın.
 
-bot-5
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-5.PNG)
 
 Uygulamanızın yetkilendirme adresini ayarlayın. (google.com olarak kullanabilirsiniz)
 
-bot-6
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-6.PNG)
 
 Aşağıdaki bağlantıyı kendinize göre düzenleyin ve tarayıcınızda ziyaret edin. Eğer her şeyi doğru yaptıysanız karşınıza linkedin login ekranı gelecektir.
 
@@ -61,7 +61,7 @@ NOT : redirect_uri kısmında belirttiğiniz adrese yönlendiriliceksiniz. Bu ad
 
 Linkedin bilgilerinizi girin ve "Oturum Aç" butonuna tıklayın.
 
-bot-7
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/bot-7.PNG)
 
 Code parametresinden gelen değeri not alın.
 
@@ -76,12 +76,13 @@ redirect_uri=https://ww.cyberdetails.org/&
 code=yukarıdaki_get_isteginden_gelen_CODE_degeri
 ```
 
-postman-1
-postman-2
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/postman-1.PNG)
+
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/postman-2.PNG)
 
 İsteği gönderdikten sonra Access_token parametresinden dönen değeri kopyalayın ve not edin.
 
-access-token
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/access-token.PNG)
 
 ### Uygulamayı çalıştırma
 
@@ -98,6 +99,6 @@ https://www.linkedin.com/company/<organizationID>/admin/
 
 Elde etiğimiz 2 değeri Linkdun App'a verelim ve sendPostJustText fonksiyonunu çalıştıralım. (run methoduna bakabilirsiniz)
 
-code
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/code.PNG)
 
-post
+![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/post.PNG)
