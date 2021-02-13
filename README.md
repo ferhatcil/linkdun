@@ -1,3 +1,30 @@
+<p align="center">
+<img title="Linkdun" src="https://img.shields.io/badge/Linkdun-%20-SCRIPT?colorA=red&colorB=black&colorC=white&style=for-the-badge"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ferhatcil/linkdun"><img title="Linkdun" src="https://img.shields.io/badge/Tool-Linkdun-red.svg"></a>
+<a href="https://github.com/ferhatcil/linkdun"><img title="Version" src="https://img.shields.io/badge/Version-1.0-red.svg?style=flat-square"></a>
+</p>
+
+<p align="center">  
+<a href="https://github.com/ferhatcil/linkdun"><img title="Linkdun" width="450" height="225" src="https://media.npr.org/assets/img/2011/12/06/95527_d0239_wide-685eb6d0fd6783dbacf037c948ed2f605c9e9d97.jpg"></img></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ferhatcil"><img title="Github" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/channel/UCNFlGKonTAN9dfXgg_VrGoA"><img title="YouTube" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=Youtube"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ferhatcil"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-yellowgreen"></a>
+<a href="https://github.com/ferhatcil"><img title="Followers" src="https://img.shields.io/github/followers/ferhatcil?color=yellowgreen&style=flat-square"></a>
+<a href="https://github.com/ferhatcil"><img title="Stars" src="https://img.shields.io/github/stars/ferhatcil/linkdun?color=yellowgreen&style=flat-square"></a>
+<a href="https://github.com/ferhatcil"><img title="Forks" src="https://img.shields.io/github/forks/ferhatcil/linkdun?color=yellowgreen&style=flat-square"></a>
+<a href="https://github.com/ferhatcil"><img title="Watching" src="https://img.shields.io/github/watchers/ferhatcil/linkdun?label=Watchers&color=yellowgreen&style=flat-square"></a>
+<a href="https://github.com/ferhatcil"><img title="Licence" src="https://img.shields.io/badge/License-MIT-yellowgreen.svg"></a>
+</p>
+
 ### Linkedin Marketing Api ile Şirket Sayfası Üzerinde Gönderi Paylaşmak
 
 Başlıklar
@@ -102,3 +129,10 @@ Elde etiğimiz 2 değeri Linkdun App'a verelim ve sendPostJustText fonksiyonunu 
 ![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/code.PNG)
 
 ![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/post.PNG)
+
+<p align="center">
+<a href="https://github.com/ferhatcil"><img title="Github" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=github"></a>
+<a href="https://www.youtube.com/channel/UCNFlGKonTAN9dfXgg_VrGoA"><img title="YouTube" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://www.linkedin.com/in/ferhatcil/"><img title="Linkedin" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=Linkedin"></a>
+<a href="https://packetstormsecurity.com/user/ferhatcil/"><img title="Packet storm" src="https://img.shields.io/badge/Packet%20storm-Ferhat%20%C3%87il-red?style=for-the-badge"></a>
+</p>
