@@ -128,7 +128,9 @@ Elde etiğimiz 2 değeri Linkdun App'a verelim ve sendPostJustText fonksiyonunu 
 
 ![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/code.PNG)
 
-![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/post.PNG)
+[![cyberdetails.org](https://raw.githubusercontent.com/ferhatcil/linkdun/main/images/post.PNG)](https://www.linkedin.com/posts/cyberdetails_merhaba-ben-robinscherbotsky-activity-6766031676347871232-mo0x "Cyberdetails")
+
+
 
 <p align="center">
 <a href="https://github.com/ferhatcil"><img title="Github" src="https://img.shields.io/badge/Ferhat%20%C3%87il-%20-red?style=for-the-badge&logo=github"></a>
