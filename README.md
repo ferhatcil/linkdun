@@ -25,7 +25,7 @@
 <a href="https://github.com/ferhatcil"><img title="Licence" src="https://img.shields.io/badge/License-MIT-yellowgreen.svg"></a>
 </p>
 
-### Linkedin Marketing Api ile Şirket Sayfası Üzerinde Gönderi Paylaşmak
+### Linkedin Marketing API ile Şirket Sayfası Üzerinde Gönderi Paylaşmak
 
 Başlıklar
 
